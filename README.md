@@ -1,4 +1,4 @@
-## `#U08` Hi there 👋
+## Hi there 👋
 
 <!--
 **Di4N4-T/Di4N4-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
